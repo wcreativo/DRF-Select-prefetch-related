@@ -1,1 +1,1 @@
-# embyter_company
+# DRF Select and Prefetch related examples
